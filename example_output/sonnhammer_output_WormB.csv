@@ -1,0 +1,8 @@
+taxon,relationship,extra_info
+Human-A1,paralogous,out-paralogous
+Human-A2,paralogous,out-paralogous
+Human-A3,paralogous,out-paralogous
+Worm-A1,paralogous,out-paralogous
+Worm-A2,paralogous,out-paralogous
+Human-B,orthologous
+Yeast-,orthologous

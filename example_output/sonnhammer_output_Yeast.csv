@@ -1,0 +1,8 @@
+taxon,relationship,extra_info
+Human-A1,orthologous
+Human-A2,orthologous
+Human-A3,orthologous
+Worm-A1,orthologous
+Worm-A2,orthologous
+Human-B,orthologous
+Worm-B,orthologous

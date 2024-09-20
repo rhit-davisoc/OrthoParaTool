@@ -1,5 +1,11 @@
 # OrthoParaTool
 
+Clone the repo with
+
+`git clone https://github.com/rhit-davisoc/OrthoParaTool.git`
+
+to use the tool
+
 ## Dependencies
 
 Dendropy 5.0.1
